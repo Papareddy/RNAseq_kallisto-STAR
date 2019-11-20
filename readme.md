@@ -1,3 +1,5 @@
+PLEASE DO NOT USE THIS PIPELINE ON CBE!
+
 # How to run the pipeline
 
 If you at any time have **any problems**; with the manual, the pipeline or anything else related to this, **just contact me (Elin)**

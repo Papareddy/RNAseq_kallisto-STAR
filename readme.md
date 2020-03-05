@@ -2,7 +2,7 @@ OPTIMZE CONFIG FOR YOUR OWN HI-PERFORMANCE COMPUTING UNITE PROFILE
 
 # How to run the pipeline
 
-* Thanks to the original author of the pipeline Elin Axelsson-Ekker**
+## Thanks to the original author of the pipeline Elin Axelsson-Ekker
 
 **NB** This document is focused on the case where the starting point is an unaligned bam file. It is also possible to use fastq files, see [Using fastq files](#using-fastq-files).
 

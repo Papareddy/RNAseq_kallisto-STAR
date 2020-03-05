@@ -1,8 +1,8 @@
-PLEASE DO NOT USE THIS PIPELINE ON CBE!
+OPTIMZE CONFIG FOR YOUR OWN HI-PERFORMANCE COMPUTING UNITE PROFILE
 
 # How to run the pipeline
 
-If you at any time have **any problems**; with the manual, the pipeline or anything else related to this, **just contact me (Elin)**
+* Thanks to the original author of the pipeline Elin Axelsson-Ekker**
 
 **NB** This document is focused on the case where the starting point is an unaligned bam file. It is also possible to use fastq files, see [Using fastq files](#using-fastq-files).
 
